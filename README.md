@@ -1,6 +1,8 @@
 # Projeto UNES-universidade
 
 ## Sobre: meu primeiro projeto em HTML
+
+Projeto desenvolvido durante o curso de Desenvolvimento Web (plataforma UDEMY)
 - Neste projeto foi desenvolvido um portal para uma faculdade fictícia chamada UNES;
 - Para que fosse feita sua estruturação sem a utilização de CSS, todos os elementos foram devidamente posicionados com o auxílio de tabelas;
 - Com conhecimentos básicos foi possível realizar a construção da landing paging com navegação entre links.
