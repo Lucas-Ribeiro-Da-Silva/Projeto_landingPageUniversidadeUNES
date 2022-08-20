@@ -5,7 +5,7 @@
 Projeto desenvolvido durante o curso de Desenvolvimento Web (plataforma UDEMY)
 - Neste projeto foi desenvolvido um portal para uma faculdade fictícia chamada UNES;
 - Para que fosse feita sua estruturação sem a utilização de CSS, todos os elementos foram devidamente posicionados com o auxílio de tabelas;
-- Com conhecimentos básicos foi possível realizar a construção da landing paging com navegação entre links.
+- Com conhecimentos básicos foi possível realizar a construção da landing page com navegação entre links.
 
 OBS: é notório que a utilização de tabelas para estruturação de páginas web e a utilização de estilização por HTML não são opções viáveis, mas vale ressaltar que como primeiro projeto isso foi aplicado para fins de aprendizado.
 
